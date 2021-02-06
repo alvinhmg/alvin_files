@@ -12,6 +12,8 @@
         <module name="demo-design-1-02" />
         <module name="demo-design-1-01" />
         <module name="demo-design-1-00" />
+        <module name="demo-design-3-02" />
+        <module name="demo-design-3-01" />
         <module name="demo-design-3-00" />
       </profile>
     </annotationProcessing>

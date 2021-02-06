@@ -4,7 +4,7 @@ import com.alvin.design.Matter;
 
 import java.math.BigDecimal;
 
-public class LevelIOneCeiling implements Matter {
+public class LevelTwoCeiling implements Matter {
 
     public String scene() {
         return "吊顶";
@@ -15,14 +15,14 @@ public class LevelIOneCeiling implements Matter {
     }
 
     public String model() {
-        return "一级顶";
+        return "二级顶";
     }
 
     public BigDecimal price() {
-        return new BigDecimal(260);
+        return new BigDecimal(850);
     }
 
     public String desc() {
-        return "造型只做低一级，只有一个层次的吊顶，一般离顶120-150mm";
+        return "两个层次的吊顶，二级吊顶高度一般就往下吊20cm，要是层高很高，也可增加每级的厚度";
     }
 }
