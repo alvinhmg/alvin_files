@@ -1,0 +1,1129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a4db74b-c880-41e7-b00d-ddf9253de12d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Alvin/src/main/java/com/alvin/AOP/Advice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alvin/src/main/java/com/alvin/AOP/BeforeAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alvin/src/main/java/com/alvin/AOP/HelloService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alvin/src/main/java/com/alvin/AOP/HelloServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alvin/src/main/java/com/alvin/AOP/MethodInvocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alvin/src/main/java/com/alvin/AOP/SimpleAOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alvin/src/main/java/com/alvin/IOC/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alvin/src/main/java/com/alvin/IOC/SimpleIOC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alvin/src/main/java/com/alvin/IOC/Wheel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alvin/src/main/java/com/alvin/IOC/ioc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alvin/src/main/java/com/alvin/controller/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alvin/src/main/java/com/alvin/controller/MessageConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alvin/src/main/java/com/alvin/controller/MessageProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alvin/src/main/java/com/alvin/controller/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alvin/src/main/java/com/alvin/controller/RedisMQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alvin/src/main/java/com/alvin/controller/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alvin/src/main/java/com/alvin/model/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alvin/src/main/java/com/alvin/services/impl/RedisService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alvin/src/main/resources/redis-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alvin/src/main/resources/redis.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alvin/src/main/resources/spring-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alvin/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alvin/src/test/java/SimpleAOPTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alvin/src/test/java/SimpleIOCTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-1-00/demo-design-1-00.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-1-00/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-1-00/src/main/java/com/alvin/demo/design/card/IQYiCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-1-00/src/main/java/com/alvin/demo/design/card/IQiYiCardService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-1-00/src/main/java/com/alvin/demo/design/coupon/CouponInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-1-00/src/main/java/com/alvin/demo/design/coupon/CouponResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-1-00/src/main/java/com/alvin/demo/design/coupon/CouponService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-1-00/src/main/java/com/alvin/demo/design/goods/DeliverReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-1-00/src/main/java/com/alvin/demo/design/goods/GoodsInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-1-00/src/main/java/com/alvin/demo/design/goods/GoodsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-1-00/src/main/java/com/alvin/demo/design/test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-1-01/demo-design-1-01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-1-01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-1-01/src/main/java/com/alvin/demo/design/AwardReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-1-01/src/main/java/com/alvin/demo/design/AwardRes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-1-01/src/main/java/com/alvin/demo/design/PrizeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-1-01/src/main/java/com/alvin/demo/design/test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-1-01/src/test/java/com/alvin/demo/test/ApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-1-02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-1-02/src/main/java/com/alvin/demo/design/StoreFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-1-02/src/main/java/com/alvin/demo/design/store/ICommodity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-1-02/src/main/java/com/alvin/demo/design/store/Impl/CardCommodityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-1-02/src/main/java/com/alvin/demo/design/store/Impl/CouponCommodityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-1-02/src/main/java/com/alvin/demo/design/store/Impl/GoodsCommodityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-1-02/src/test/java/com/alvin/demo/design/test/ApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-2-00/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-2-00/src/main/java/com/alvin/demo/design/CacheService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-2-00/src/main/java/com/alvin/demo/design/RedisUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-2-00/src/main/java/com/alvin/demo/design/cuisine/impl/CacheServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-2-00/src/main/java/com/alvin/demo/design/matter/EGM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-2-00/src/main/java/com/alvin/demo/design/matter/IIR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-2-00/target/classes/META-INF/demo-design-2-00.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-2-00/target/classes/com/alvin/demo/design/CacheService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-2-00/target/classes/com/alvin/demo/design/RedisUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-2-00/target/classes/com/alvin/demo/design/cuisine/impl/CacheServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-2-00/target/classes/com/alvin/demo/design/matter/EGM.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-2-00/target/classes/com/alvin/demo/design/matter/IIR.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-2-01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-2-01/src/main/java/com/alvin/demo/design/CacheService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-2-01/src/main/java/com/alvin/demo/design/cuisine/impl/CacheServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-2-01/src/test/java/com/alvin/demo/design/test/ApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-2-02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-2-02/src/main/java/com/alvin/demo/design/CacheService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-2-02/src/main/java/com/alvin/demo/design/factory/ICacheAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-2-02/src/main/java/com/alvin/demo/design/factory/JDKInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-2-02/src/main/java/com/alvin/demo/design/factory/JDKProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-2-02/src/main/java/com/alvin/demo/design/factory/impl/EGMCacheAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-2-02/src/main/java/com/alvin/demo/design/factory/impl/IIRCacheAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-2-02/src/main/java/com/alvin/demo/design/impl/CacheServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-2-02/src/main/java/com/alvin/demo/design/util/ClassLoaderUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-2-02/src/test/java/com/alvin/demo/design/test/ApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-2-02/target/classes/com/alvin/demo/design/CacheService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-2-02/target/classes/com/alvin/demo/design/factory/ICacheAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-2-02/target/classes/com/alvin/demo/design/factory/JDKInvocationHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-2-02/target/classes/com/alvin/demo/design/factory/JDKProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-2-02/target/classes/com/alvin/demo/design/factory/impl/EGMCacheAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-2-02/target/classes/com/alvin/demo/design/factory/impl/IIRCacheAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-2-02/target/classes/com/alvin/demo/design/impl/CacheServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-2-02/target/classes/com/alvin/demo/design/util/ClassLoaderUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-2-02/target/test-classes/com/alvin/demo/design/test/ApiTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-3-00/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-3-00/src/main/java/Matter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-3-00/src/main/java/com/alvin/design/ceiling/LevelIOneCeiling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmeic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmeic/src/main/java/Array/DynamicArray/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmeic/src/main/java/Array/DynamicArray/ArrayImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmeic/src/main/java/Array/MergeTwoArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmeic/src/main/java/Array/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmeic/src/main/java/Array/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmeic/src/main/java/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmeic/src/main/java/generateParenthesis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Alvin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Alvin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Alvin/Alvin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Alvin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Alvin/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Alvin/src/main/java/com/alvin/dao/IUserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Alvin/src/main/java/com/alvin/dao/IUserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Alvin/src/main/java/com/alvin/services/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Alvin/src/main/java/com/alvin/services/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Alvin/src/main/resources/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Alvin/src/main/resources/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Alvin/src/main/resources/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Alvin/src/main/resources/spring-mvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Alvin/src/main/resources/spring-mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Alvin/src/main/resources/spring-mybatis.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Alvin/src/test/java/com/alvin/dao/IUserDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Alvin/src/test/java/com/alvin/dao/IUserDaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Alvin/target/classes/com/alvin/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Alvin/target/classes/com/alvin/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Alvin/target/classes/com/alvin/dao/IUserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Alvin/target/classes/com/alvin/dao/IUserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Alvin/target/classes/com/alvin/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Alvin/target/classes/com/alvin/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Alvin/target/classes/com/alvin/services/IUserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Alvin/target/classes/com/alvin/services/IUserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Alvin/target/classes/com/alvin/services/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Alvin/target/classes/com/alvin/services/impl/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Alvin/target/classes/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Alvin/target/classes/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Alvin/target/classes/mapper/UserDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Alvin/target/classes/mapper/UserDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Alvin/target/classes/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Alvin/target/classes/spring-mvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Alvin/target/classes/spring-mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Alvin/target/classes/spring-mybatis.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Alvin/target/classes/sql/User.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Alvin/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Alvin/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Alvin/target/test-classes/com/alvin/dao/IUserDaoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Alvin/target/test-classes/com/alvin/dao/IUserDaoTest.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/demo-design-1-00/target/" />
+    <ignored path="$PROJECT_DIR$/demo-design-1-01/target/" />
+    <ignored path="$PROJECT_DIR$/demo-design-1-02/target/" />
+    <ignored path="$PROJECT_DIR$/demo.design-2-00/target/" />
+    <ignored path="$PROJECT_DIR$/demo-design-2-01/target/" />
+    <ignored path="$PROJECT_DIR$/demo-design-2-02/target/" />
+    <ignored path="$PROJECT_DIR$/demo-design-2-00/target/" />
+    <ignored path="$PROJECT_DIR$/demo-design-3-00/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-design-2-02/src/main/java/com/alvin/demo/design/factory/JDKProxy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-design-2-02/src/main/java/com/alvin/demo/design/impl/CacheServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-design-2-00/src/main/java/com/alvin/demo/design/RedisUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-design-2-02/src/test/java/com/alvin/demo/design/test/ApiTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-design-2-02/src/main/java/com/alvin/demo/design/factory/impl/IIRCacheAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-design-3-00/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-design-3-00/src/main/java/Matter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo-design-3-00/src/main/java/com/alvin/design/ceiling/LevelIOneCeiling.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-design-2-02/src/main/java/com/alvin/demo/design/factory/ICacheAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-design-2-02/src/main/java/com/alvin/demo/design/util/ClassLoaderUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-818">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#357#364#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>oss-web</find>
+      <find>EGM写入数据</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/demo-design-1-00/src/main/java/com/alvin/demo/design/coupon/CouponService.java" />
+        <option value="$PROJECT_DIR$/demo-design-1-00/src/main/java/com/alvin/demo/design/coupon/CouponResult.java" />
+        <option value="$PROJECT_DIR$/demo-design-1-00/src/main/java/com/alvin/demo/design/goods/DeliverReq.java" />
+        <option value="$PROJECT_DIR$/demo-design-1-00/src/main/java/com/alvin/demo/design/goods/GoodsInfo.java" />
+        <option value="$PROJECT_DIR$/demo-design-1-00/src/main/java/com/alvin/demo/design/goods/GoodsService.java" />
+        <option value="$PROJECT_DIR$/demo-design-1-01/src/main/java/com/alvin/demo/design/AwardReq.java" />
+        <option value="$PROJECT_DIR$/demo-design-1-01/src/main/java/com/alvin/demo/design/AwardRes.java" />
+        <option value="$PROJECT_DIR$/demo-design-1-01/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-design-1-01/src/main/java/com/alvin/demo/design/PrizeController.java" />
+        <option value="$PROJECT_DIR$/demo-design-1-01/src/test/java/com/alvin/demo/test/ApiTest.java" />
+        <option value="$PROJECT_DIR$/demo-design-1-02/src/main/java/com/alvin/demo/design/store/Impl/CouponCommdityService.java" />
+        <option value="$PROJECT_DIR$/demo-design-1-02/src/main/java/com/alvin/demo/design/store/Impl/GoodsCommdityService.java" />
+        <option value="$PROJECT_DIR$/demo-design-1-02/src/main/java/com/alvin/demo/design/StoreFactory.java" />
+        <option value="$PROJECT_DIR$/demo-design-1-02/src/main/java/com/alvin/demo/design/store/Impl/CardCommdityService.java" />
+        <option value="$PROJECT_DIR$/demo-design-1-02/src/main/java/com/alvin/demo/design/store/ICommdity.java" />
+        <option value="$PROJECT_DIR$/demo-design-1-02/src/main/java/com/alvin/demo/design/store/ICommodity.java" />
+        <option value="$PROJECT_DIR$/demo-design-1-02/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-design-1-02/src/main/java/com/alvin/demo/design/store/Impl/CardCommodityService.java" />
+        <option value="$PROJECT_DIR$/demo-design-1-02/src/main/java/com/alvin/demo/design/store/Impl/CouponCommodityService.java" />
+        <option value="$PROJECT_DIR$/demo-design-1-02/src/main/java/com/alvin/demo/design/store/Impl/GoodsCommodityService.java" />
+        <option value="$PROJECT_DIR$/demo-design-1-02/src/test/java/com/alvin/demo/design/test/ApiTest.java" />
+        <option value="$PROJECT_DIR$/demo-design-2-00/src/main/java/com/alvin/demo/design/matter/llR.java" />
+        <option value="$PROJECT_DIR$/demo-design-2-01/src/main/java/cuisine/impl/CacheServiceImpl.java" />
+        <option value="$PROJECT_DIR$/demo-design-2-01/src/main/java/com/alvin/demo/design/impl/CacheServiceImpl.java" />
+        <option value="$PROJECT_DIR$/demo-design-2-01/src/main/java/cuisine/CacheServiceImpl.java" />
+        <option value="$PROJECT_DIR$/demo-design-2-01/src/main/java/com/alvin/demo/design/impl/cuisine/CacheServiceImpl.java" />
+        <option value="$PROJECT_DIR$/demo-design-2-01/src/main/java/com/alvin/demo/design/CacheServiceImpl.java" />
+        <option value="$PROJECT_DIR$/demo-design-2-01/src/main/java/com/alvin/demo/design/cuisine/impl/CacheService.java" />
+        <option value="$PROJECT_DIR$/demo-design-2-01/src/main/java/com/alvin/demo/design/CacheService.java" />
+        <option value="$PROJECT_DIR$/demo-design-2-00/src/main/java/com/alvin/demo/design/CacheServiceImpl.java" />
+        <option value="$PROJECT_DIR$/demo-design-2-01/src/test/java/com/alvin/demo/design/test/ApiTest.java" />
+        <option value="$PROJECT_DIR$/demo-design-2-02/src/main/java/com/alvin/demo/design/CacheService.java" />
+        <option value="$PROJECT_DIR$/demo-design-2-02/src/main/java/com/alvin/demo/design/factory/ICacheAdapter.java" />
+        <option value="$PROJECT_DIR$/demo-design-2-02/src/main/java/com/alvin/demo/design/factory/impl/EGMCacheAdapter.java" />
+        <option value="$PROJECT_DIR$/demo-design-2-02/src/main/java/com/alvin/demo/design/factory/impl/IIRCacheAdapter.java" />
+        <option value="$PROJECT_DIR$/demo-design-2-02/src/main/java/com/alvin/demo/design/factory/JDKInvocationHandler.java" />
+        <option value="$PROJECT_DIR$/demo-design-2-00/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-design-2-00/src/main/java/com/alvin/demo/design/CacheService.java" />
+        <option value="$PROJECT_DIR$/demo-design-2-00/src/main/java/com/alvin/demo/design/RedisUtils.java" />
+        <option value="$PROJECT_DIR$/demo-design-2-00/src/main/java/com/alvin/demo/design/cuisine/impl/CacheServiceImpl.java" />
+        <option value="$PROJECT_DIR$/demo-design-2-00/src/main/java/com/alvin/demo/design/matter/EGM.java" />
+        <option value="$PROJECT_DIR$/demo-design-2-00/src/main/java/com/alvin/demo/design/matter/IIR.java" />
+        <option value="$PROJECT_DIR$/demo-design-2-01/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-design-2-01/src/main/java/com/alvin/demo/design/cuisine/impl/CacheServiceImpl.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-design-2-02/src/main/java/com/alvin/demo/design/impl/CacheServiceImpl.java" />
+        <option value="$PROJECT_DIR$/demo-design-2-02/src/main/java/com/alvin/demo/design/util/ClassLoaderUtils.java" />
+        <option value="$PROJECT_DIR$/demo-design-2-02/src/main/java/com/alvin/demo/design/factory/JDKProxy.java" />
+        <option value="$PROJECT_DIR$/demo-design-2-02/src/test/java/com/alvin/demo/design/test/ApiTest.java" />
+        <option value="$PROJECT_DIR$/demo-design-3-00/src/main/java/Matter.java" />
+        <option value="$PROJECT_DIR$/demo-design-3-00/src/main/java/com/alvin/design/ceiling/LevelIOneCeiling.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Design-Pattern" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Design-Pattern" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="808" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Design-Pattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Design-Pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="demo-design-3-00" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Design-Pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="demo-design-3-00" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Design-Pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="demo-design-3-00" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/demo-design-3-00/src/main/java/com/alvin/design" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.45974955" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/demo-design-3-00/src/main/java/com/alvin/design" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.alvin.demo.design.matter" />
+      <recent name="com.alvin.demo.design.cuisine.impl" />
+      <recent name="com.alvin.demo.design" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/demo-design-3-00/src/main/java/com/alvin/design" />
+      <recent name="$PROJECT_DIR$/demo-design-2-00" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ApiTest.testCacheService">
+    <configuration name="generateParenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generateParenthesis" />
+      <module name="DesignPattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTest.testCacheService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo-design-2-02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alvin.demo.design.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.alvin.demo.design.test" />
+      <option name="MAIN_CLASS_NAME" value="com.alvin.demo.design.test.ApiTest" />
+      <option name="METHOD_NAME" value="testCacheService" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTest.test_awardToUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo-design-1-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alvin.demo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.alvin.demo.test" />
+      <option name="MAIN_CLASS_NAME" value="com.alvin.demo.test.ApiTest" />
+      <option name="METHOD_NAME" value="test_awardToUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTest.test_cacheService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo-design-2-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alvin.demo.design.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.alvin.demo.design.test" />
+      <option name="MAIN_CLASS_NAME" value="com.alvin.demo.design.test.ApiTest" />
+      <option name="METHOD_NAME" value="test_cacheService" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTest.test_commodity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo-design-1-02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alvin.demo.design.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.alvin.demo.design.test" />
+      <option name="MAIN_CLASS_NAME" value="com.alvin.demo.design.test.ApiTest" />
+      <option name="METHOD_NAME" value="test_commodity" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ApiTest.testCacheService" />
+        <item itemvalue="JUnit.ApiTest.test_cacheService" />
+        <item itemvalue="JUnit.ApiTest.test_commodity" />
+        <item itemvalue="JUnit.ApiTest.test_awardToUser" />
+        <item itemvalue="Application.generateParenthesis" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a4db74b-c880-41e7-b00d-ddf9253de12d" name="Default Changelist" comment="" />
+      <created>1605960468435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605960468435</updated>
+      <workItem from="1605960470194" duration="1884000" />
+      <workItem from="1606569598121" duration="851000" />
+      <workItem from="1606738383758" duration="4015000" />
+      <workItem from="1606919840701" duration="3252000" />
+      <workItem from="1610015663485" duration="8849000" />
+      <workItem from="1610447628866" duration="1465000" />
+      <workItem from="1610528432546" duration="379000" />
+      <workItem from="1610547355773" duration="5168000" />
+      <workItem from="1610675560497" duration="307000" />
+      <workItem from="1612616890940" duration="4242000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ApiTest_test_awardToUser - 2020.12.03 at 00h 00m 50s.xml">
+      <configuration name="ApiTest.test_awardToUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApiTest_test_commodity - 2021.01.07 at 20h 16m 17s.xml">
+      <configuration name="ApiTest.test_commodity" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApiTest_test_cacheService - 2021.01.11 at 19h 49m 49s.xml">
+      <configuration name="ApiTest.test_cacheService" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApiTest_test_cacheService - 2021.01.11 at 19h 50m 45s.xml">
+      <configuration name="ApiTest.test_cacheService" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApiTest_test_cacheService - 2021.01.11 at 19h 53m 17s.xml">
+      <configuration name="ApiTest.test_cacheService" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApiTest_test_cacheService - 2021.01.11 at 19h 56m 05s.xml">
+      <configuration name="ApiTest.test_cacheService" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApiTest_test_cacheService - 2021.01.11 at 19h 57m 25s.xml">
+      <configuration name="ApiTest.test_cacheService" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApiTest_testCacheService - 2021.02.06 at 21h 52m 58s.xml">
+      <configuration name="ApiTest.testCacheService" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApiTest_testCacheService - 2021.02.06 at 21h 53m 36s.xml">
+      <configuration name="ApiTest.testCacheService" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="30412000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28183118" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.49518073" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.5626506" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.5192771" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32891566" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24964234" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.3297568" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="SciView" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo-design-2-02/src/test/java/com/alvin/demo/design/test/ApiTest.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo-design-2-02/src/main/java/com/alvin/demo/design/factory/JDKProxy.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/demo-design-1-00/src/main/java/com/alvin/demo/design/goods/DeliverReq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+          <folding>
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-1-00/src/main/java/com/alvin/demo/design/goods/GoodsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-1-01/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-1-01/src/main/java/com/alvin/demo/design/test">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-1-01/src/main/java/com/alvin/demo/design/AwardReq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-1-01/src/main/java/com/alvin/demo/design/AwardRes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-1-01/src/main/java/com/alvin/demo/design/PrizeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../Maven_Home/com/alibaba/fastjson/1.2.70/fastjson-1.2.70.jar!/com/alibaba/fastjson/JSON.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="51" column="22" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-1-01/src/test/java/com/alvin/demo/test/ApiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="27" column="58" selection-start-line="27" selection-start-column="58" selection-end-line="27" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-1-02/src/main/java/com/alvin/demo/design/test" />
+    <entry file="file://$PROJECT_DIR$/demo-design-1-02/src/main/java/com/alvin/demo/design/StoreFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-1-00/src/main/java/com/alvin/demo/design/card/IQiYiCardService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-1-02/src/main/java/com/alvin/demo/design/store/Impl/CouponCommodityService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="92" selection-start-line="19" selection-start-column="92" selection-end-line="19" selection-end-column="92" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-1-02/src/main/java/com/alvin/demo/design/store/Impl/GoodsCommodityService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="51" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-1-02/src/test/java/com/alvin/demo/design/test/ApiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#634#649#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-1-02/src/main/java/com/alvin/demo/design/store/Impl/CardCommodityService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-1-02/src/main/java/com/alvin/demo/design/store/ICommodity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-2-00/src/main/java/com/alvin/demo/design/test">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../Maven_Home/ch/qos/logback/logback-core/1.0.9/logback-core-1.0.9.jar!/ch/qos/logback/core/util/TimeUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-2-01/src/main/java/com/alvin/demo/design/cuisine/impl/CacheService.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/TimeUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="69" column="3" selection-start-line="69" selection-start-column="3" selection-end-line="69" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-2-00/src/main/java/com/alvin/demo/design/CacheServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-2-01/src/test/java/com/alvin/demo/design/test/ApiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-2-02/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/reflect/InvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-1-02/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="10" selection-end-line="22" selection-end-column="10" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-2-02/src/main/java/com/alvin/demo/design/CacheService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-2-00/src/main/java/com/alvin/demo/design/cuisine/impl/CacheServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-2-00/src/main/java/com/alvin/demo/design/CacheService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-2-00/src/main/java/com/alvin/demo/design/matter/IIR.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-2-00/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-2-01/src/main/java/com/alvin/demo/design/CacheService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-2-01/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-2-01/src/main/java/com/alvin/demo/design/cuisine/impl/CacheServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-2-00/src/main/java/com/alvin/demo/design/matter/EGM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-2-02/src/main/java/com/alvin/demo/design/factory/JDKInvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-2-02/src/main/java/com/alvin/demo/design/factory/impl/EGMCacheAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/reflect/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="702" column="25" selection-start-line="702" selection-start-column="25" selection-end-line="702" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="1437" column="23" selection-start-line="1437" selection-start-column="23" selection-end-line="1437" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-2-02/src/main/java/com/alvin/demo/design/factory/ICacheAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-2-02/src/test/java/com/alvin/demo/design/test/ApiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-2-02/src/main/java/com/alvin/demo/design/util/ClassLoaderUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-818">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#357#364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-2-02/src/main/java/com/alvin/demo/design/factory/JDKProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-2-00/src/main/java/com/alvin/demo/design/RedisUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-2-02/src/main/java/com/alvin/demo/design/impl/CacheServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-2-02/src/main/java/com/alvin/demo/design/factory/impl/IIRCacheAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-3-00/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-3-00/src/main/java/com/alvin/design/test">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-3-00/src/main/java/Matter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-3-00/src/main/java/com/alvin/design/ceiling/LevelIOneCeiling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>demo-design-2-02</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.45974955" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
