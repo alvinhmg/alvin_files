@@ -70,30 +70,29 @@
       <change afterPath="$PROJECT_DIR$/demo-design-2-02/src/main/java/com/alvin/demo/design/util/ClassLoaderUtils.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/demo-design-2-02/src/test/java/com/alvin/demo/design/test/ApiTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/demo-design-3-00/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-design-3-00/src/main/java/com/alvin/design/Matter.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/demo-design-3-00/src/main/java/com/alvin/design/ceiling/LevelIOneCeiling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-design-3-00/src/main/java/com/alvin/design/ceiling/LevelTwoCeiling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-design-3-00/src/main/java/com/alvin/design/coat/DuluxCoat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-design-3-00/src/main/java/com/alvin/design/coat/LiBangCoat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-design-3-00/src/main/java/com/alvin/design/floor/DerFloor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-design-3-00/src/main/java/com/alvin/design/floor/ShengXiangFloor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-design-3-00/src/main/java/com/alvin/design/tile/DongPengTile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-design-3-00/src/main/java/com/alvin/design/tile/MarcoPoloTile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-design-3-01/demo-design-3-01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-design-3-01/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-design-3-01/src/main/java/com/alvin/demo/design/DecorationPackageController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-design-3-01/src/test/java/com/alvin/design/ApiTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-design-3-02/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-design-3-02/src/main/java/com/alvin/design/demo/Builder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-design-3-02/src/main/java/com/alvin/design/demo/DecorationPackageMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-design-3-02/src/main/java/com/alvin/design/demo/IMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-4-00/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-4-00/src/main/java/com/alvin/design/demo/AnswerQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-4-00/src/main/java/com/alvin/design/demo/ChoiceQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-4-00/src/test/java/com/alvin/design/test/ApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-4-01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-4-01/src/main/java/com/alvin/design/demo/QuestionBankController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-4-01/src/test/java/com/alvin/design/demo/test/ApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-4-02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-4-02/src/main/java/com/alvin/design/demo/QuestionBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-4-02/src/main/java/com/alvin/design/demo/QuestionBankController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-4-02/src/main/java/com/alvin/design/demo/utils/Topic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-4-02/src/main/java/com/alvin/design/demo/utils/TopicRandomUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-design-4-02/src/test/java/com/alvin/design/demo/test/ApiTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../algorithmeic/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../algorithmeic/src/main/java/Array/DynamicArray/Array.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../algorithmeic/src/main/java/Array/DynamicArray/ArrayImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../algorithmeic/src/main/java/Array/MergeTwoArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmeic/src/main/java/Array/SumOfSquareNumbers.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../algorithmeic/src/main/java/Array/ThreeSum.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../algorithmeic/src/main/java/Array/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../algorithmeic/src/main/java/Array/VaildPalindrome.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../algorithmeic/src/main/java/BinarySearchTree.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../algorithmeic/src/main/java/generateParenthesis.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Alvin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Alvin/.idea/workspace.xml" afterDir="false" />
@@ -120,8 +119,6 @@
       <change beforePath="$PROJECT_DIR$/../Alvin/target/test-classes/com/alvin/dao/IUserDaoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Alvin/target/test-classes/com/alvin/dao/IUserDaoTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-design-3-00/src/main/java/Matter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-design-3-00/src/main/java/com/alvin/design/ceiling/LevelIOneCeiling.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-design-3-00/src/main/java/com/alvin/design/ceiling/LevelIOneCeiling.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -136,6 +133,9 @@
     <ignored path="$PROJECT_DIR$/demo-design-3-00/target/" />
     <ignored path="$PROJECT_DIR$/demo-design-3-01/target/" />
     <ignored path="$PROJECT_DIR$/demo-design-3-02/target/" />
+    <ignored path="$PROJECT_DIR$/demo-design-4-00/target/" />
+    <ignored path="$PROJECT_DIR$/demo-design-4-01/target/" />
+    <ignored path="$PROJECT_DIR$/demo-design-4-02/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,52 +148,64 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo-design-3-00/src/main/java/com/alvin/design/Matter.java">
+        <entry file="file://$PROJECT_DIR$/demo-design-4-01/src/test/java/com/alvin/design/demo/test/ApiTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo-design-3-00/src/main/java/com/alvin/design/ceiling/LevelIOneCeiling.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            <state relative-caret-position="225">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#175#176#0" expanded="true" />
-                <element signature="e#202#203#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo-design-3-01/src/main/java/com/alvin/demo/design/DecorationPackageController.java">
+        <entry file="file://$PROJECT_DIR$/demo-design-4-01/src/main/java/com/alvin/design/demo/QuestionBankController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="573">
-              <caret line="81" column="42" selection-start-line="81" selection-start-column="42" selection-end-line="81" selection-end-column="42" />
+            <state relative-caret-position="147">
+              <caret line="60" column="67" selection-start-line="60" selection-start-column="67" selection-end-line="60" selection-end-column="67" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#248#256#0" expanded="true" />
+                <element signature="e#271#287#0" expanded="true" />
+                <element signature="e#354#370#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo-design-3-02/pom.xml">
+        <entry file="file://$PROJECT_DIR$/demo-design-4-02/pom.xml">
           <provider selected="true" editor-type-id="text-editor" />
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/demo-design-3-02/src/main/java/com/alvin/design/demo/Builder.java">
+        <entry file="file://$PROJECT_DIR$/demo-design-4-02/src/main/java/com/alvin/design/demo/QuestionBank.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="28" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="40" />
+            <state relative-caret-position="227">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#263#279#0" expanded="true" />
+                <element signature="e#352#368#0" expanded="true" />
+                <element signature="e#288#289#0" expanded="true" />
+                <element signature="e#320#321#0" expanded="true" />
+                <element signature="e#370#371#0" expanded="true" />
+                <element signature="e#412#413#0" expanded="true" />
+                <element signature="e#445#446#0" expanded="true" />
+                <element signature="e#474#475#0" expanded="true" />
+                <element signature="e#518#519#0" expanded="true" />
+                <element signature="e#554#555#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-design-4-02/src/main/java/com/alvin/design/demo/QuestionBankController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="62" column="72" selection-start-line="62" selection-start-column="69" selection-end-line="62" selection-end-column="74" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -202,56 +214,66 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo-design-3-02/src/main/java/com/alvin/design/demo/DecorationPackageMenu.java">
+        <entry file="file://$PROJECT_DIR$/demo-design-4-00/src/main/java/com/alvin/design/demo/ChoiceQuestion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+            <state relative-caret-position="165">
+              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#213#221#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo-design-3-02/src/main/java/com/alvin/design/demo/IMenu.java">
+        <entry file="file://$PROJECT_DIR$/demo-design-4-02/src/test/java/com/alvin/design/demo/test/ApiTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="53" lean-forward="true" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-design-4-02/src/main/java/com/alvin/design/demo/utils/Topic.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo-design-3-01/src/test/java/com/alvin/design/ApiTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#193#194#0" expanded="true" />
+                <element signature="e#223#224#0" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
+                <element signature="e#320#321#0" expanded="true" />
+                <element signature="e#350#351#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+                <element signature="e#414#415#0" expanded="true" />
+                <element signature="e#444#445#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/math/BigDecimal.java">
+        <entry file="file://$PROJECT_DIR$/demo-design-4-02/src/main/java/com/alvin/design/demo/utils/TopicRandomUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="2303" column="28" selection-start-line="2303" selection-start-column="28" selection-end-line="2303" selection-end-column="28" />
+            <state relative-caret-position="435">
+              <caret line="29" column="42" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="42" />
+              <folding>
+                <element signature="e#471#479#0" expanded="true" />
+                <element signature="e#510#526#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo-design-3-00/src/main/java/com/alvin/design/ceiling/LevelTwoCeiling.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/Cloneable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="435">
+              <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -261,8 +283,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -281,17 +303,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/demo-design-1-02/src/main/java/com/alvin/demo/design/store/ICommdity.java" />
-        <option value="$PROJECT_DIR$/demo-design-1-02/src/main/java/com/alvin/demo/design/store/ICommodity.java" />
-        <option value="$PROJECT_DIR$/demo-design-1-02/pom.xml" />
-        <option value="$PROJECT_DIR$/demo-design-1-02/src/main/java/com/alvin/demo/design/store/Impl/CardCommodityService.java" />
-        <option value="$PROJECT_DIR$/demo-design-1-02/src/main/java/com/alvin/demo/design/store/Impl/CouponCommodityService.java" />
-        <option value="$PROJECT_DIR$/demo-design-1-02/src/main/java/com/alvin/demo/design/store/Impl/GoodsCommodityService.java" />
-        <option value="$PROJECT_DIR$/demo-design-1-02/src/test/java/com/alvin/demo/design/test/ApiTest.java" />
-        <option value="$PROJECT_DIR$/demo-design-2-00/src/main/java/com/alvin/demo/design/matter/llR.java" />
-        <option value="$PROJECT_DIR$/demo-design-2-01/src/main/java/cuisine/impl/CacheServiceImpl.java" />
-        <option value="$PROJECT_DIR$/demo-design-2-01/src/main/java/com/alvin/demo/design/impl/CacheServiceImpl.java" />
-        <option value="$PROJECT_DIR$/demo-design-2-01/src/main/java/cuisine/CacheServiceImpl.java" />
         <option value="$PROJECT_DIR$/demo-design-2-01/src/main/java/com/alvin/demo/design/impl/cuisine/CacheServiceImpl.java" />
         <option value="$PROJECT_DIR$/demo-design-2-01/src/main/java/com/alvin/demo/design/CacheServiceImpl.java" />
         <option value="$PROJECT_DIR$/demo-design-2-01/src/main/java/com/alvin/demo/design/cuisine/impl/CacheService.java" />
@@ -332,6 +343,17 @@
         <option value="$PROJECT_DIR$/demo-design-3-02/src/main/java/com/alvin/design/demo/IMenu.java" />
         <option value="$PROJECT_DIR$/demo-design-3-02/src/main/java/com/alvin/design/demo/DecorationPackageMenu.java" />
         <option value="$PROJECT_DIR$/demo-design-3-02/src/main/java/com/alvin/design/demo/Builder.java" />
+        <option value="$PROJECT_DIR$/demo-design-3-02/src/test/java/com/alvin/design/demo/test/ApiTest.java" />
+        <option value="$PROJECT_DIR$/demo-design-4-00/src/main/java/com/alvin/design/demo/ChoiceQuestion.java" />
+        <option value="$PROJECT_DIR$/demo-design-4-00/src/main/java/com/alvin/design/demo/AnswerQuestion.java" />
+        <option value="$PROJECT_DIR$/demo-design-4-00/src/test/java/com/alvin/design/test/ApiTest.java" />
+        <option value="$PROJECT_DIR$/demo-design-4-01/src/main/java/com/alvin/design/demo/QuestionBankController.java" />
+        <option value="$PROJECT_DIR$/demo-design-4-01/src/test/java/com/alvin/design/demo/test/ApiTest.java" />
+        <option value="$PROJECT_DIR$/demo-design-4-02/src/main/java/com/alvin/design/demo/utils/Topic.java" />
+        <option value="$PROJECT_DIR$/demo-design-4-02/src/main/java/com/alvin/design/demo/utils/TopicRandomUtil.java" />
+        <option value="$PROJECT_DIR$/demo-design-4-02/src/main/java/com/alvin/design/demo/QuestionBank.java" />
+        <option value="$PROJECT_DIR$/demo-design-4-02/src/test/java/com/alvin/design/demo/test/ApiTest.java" />
+        <option value="$PROJECT_DIR$/demo-design-4-02/src/main/java/com/alvin/design/demo/QuestionBankController.java" />
       </list>
     </option>
   </component>
@@ -382,25 +404,25 @@
             <path>
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="Design-Pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="demo-design-3-02" type="462c0819:PsiDirectoryNode" />
+              <item name="demo-design-4-02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="Design-Pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="demo-design-3-02" type="462c0819:PsiDirectoryNode" />
+              <item name="demo-design-4-02" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="Design-Pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="demo-design-3-02" type="462c0819:PsiDirectoryNode" />
+              <item name="demo-design-4-02" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="Design-Pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="demo-design-3-02" type="462c0819:PsiDirectoryNode" />
+              <item name="demo-design-4-02" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -408,7 +430,7 @@
             <path>
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="Design-Pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="demo-design-3-02" type="462c0819:PsiDirectoryNode" />
+              <item name="demo-design-4-02" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -417,17 +439,9 @@
             <path>
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="Design-Pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="demo-design-3-02" type="462c0819:PsiDirectoryNode" />
+              <item name="demo-design-4-02" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Design-Pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="demo-design-3-02" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -477,7 +491,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ApiTest.testBuilder">
+  <component name="RunManager" selected="JUnit.ApiTest.testQuestionBankController">
     <configuration name="ApiTest.testBuilder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo-design-3-02" />
       <extension name="coverage">
@@ -494,17 +508,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ApiTest.testCacheService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="demo-design-2-02" />
+    <configuration name="ApiTest.testClone" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo-design-4-00" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alvin.demo.design.test.*" />
+          <option name="PATTERN" value="com.alvin.design.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.alvin.demo.design.test" />
-      <option name="MAIN_CLASS_NAME" value="com.alvin.demo.design.test.ApiTest" />
-      <option name="METHOD_NAME" value="testCacheService" />
+      <option name="PACKAGE_NAME" value="com.alvin.design.test" />
+      <option name="MAIN_CLASS_NAME" value="com.alvin.design.test.ApiTest" />
+      <option name="METHOD_NAME" value="testClone" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTest.testQuestionBank" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo-design-4-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alvin.design.demo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.alvin.design.demo.test" />
+      <option name="MAIN_CLASS_NAME" value="com.alvin.design.demo.test.ApiTest" />
+      <option name="METHOD_NAME" value="testQuestionBank" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTest.testQuestionBankController" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo-design-4-02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alvin.design.demo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.alvin.design.demo.test" />
+      <option name="MAIN_CLASS_NAME" value="com.alvin.design.demo.test.ApiTest" />
+      <option name="METHOD_NAME" value="testQuestionBankController" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -526,45 +572,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ApiTest.test_cacheService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="demo-design-2-01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.alvin.demo.design.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.alvin.demo.design.test" />
-      <option name="MAIN_CLASS_NAME" value="com.alvin.demo.design.test.ApiTest" />
-      <option name="METHOD_NAME" value="test_cacheService" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ApiTest.test_commodity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="demo-design-1-02" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.alvin.demo.design.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.alvin.demo.design.test" />
-      <option name="MAIN_CLASS_NAME" value="com.alvin.demo.design.test.ApiTest" />
-      <option name="METHOD_NAME" value="test_commodity" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ApiTest.testQuestionBankController" />
+        <item itemvalue="JUnit.ApiTest.testQuestionBank" />
+        <item itemvalue="JUnit.ApiTest.testClone" />
         <item itemvalue="JUnit.ApiTest.testBuilder" />
         <item itemvalue="JUnit.ApiTest.test_DecorationPackageController" />
-        <item itemvalue="JUnit.ApiTest.testCacheService" />
-        <item itemvalue="JUnit.ApiTest.test_cacheService" />
-        <item itemvalue="JUnit.ApiTest.test_commodity" />
       </list>
     </recent_temporary>
   </component>
@@ -592,18 +606,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ApiTest_test_awardToUser - 2020.12.03 at 00h 00m 50s.xml">
-      <configuration name="ApiTest.test_awardToUser" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ApiTest_test_commodity - 2021.01.07 at 20h 16m 17s.xml">
-      <configuration name="ApiTest.test_commodity" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ApiTest_test_cacheService - 2021.01.11 at 19h 49m 49s.xml">
-      <configuration name="ApiTest.test_cacheService" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ApiTest_test_cacheService - 2021.01.11 at 19h 50m 45s.xml">
-      <configuration name="ApiTest.test_cacheService" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ApiTest_test_cacheService - 2021.01.11 at 19h 53m 17s.xml">
       <configuration name="ApiTest.test_cacheService" configurationId="JUnit" />
     </history-entry>
@@ -622,14 +624,27 @@
     <history-entry file="ApiTest_test_DecorationPackageController - 2021.02.06 at 22h 54m 31s.xml">
       <configuration name="ApiTest.test_DecorationPackageController" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ApiTest_testBuilder - 2021.02.06 at 23h 19m 25s.xml">
+      <configuration name="ApiTest.testBuilder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApiTest_testClone - 2021.02.08 at 11h 14m 30s.xml">
+      <configuration name="ApiTest.testClone" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApiTest_testQuestionBank - 2021.02.08 at 11h 34m 23s.xml">
+      <configuration name="ApiTest.testQuestionBank" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApiTest_testQuestionBankController - 2021.02.08 at 12h 52m 18s.xml">
+      <configuration name="ApiTest.testQuestionBankController" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32915000" />
+    <option name="totallyTimeSpent" value="40842000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28183118" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28183118" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -638,7 +653,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.49518073" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27831325" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -683,108 +698,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo-design-2-00/src/main/java/com/alvin/demo/design/test">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../Maven_Home/ch/qos/logback/logback-core/1.0.9/logback-core-1.0.9.jar!/ch/qos/logback/core/util/TimeUtil.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-design-2-01/src/main/java/com/alvin/demo/design/cuisine/impl/CacheService.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/concurrent/TimeUnit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="69" column="3" selection-start-line="69" selection-start-column="3" selection-end-line="69" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-design-2-00/src/main/java/com/alvin/demo/design/CacheServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="44" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-design-2-01/src/test/java/com/alvin/demo/design/test/ApiTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-design-2-02/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/reflect/InvocationHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-design-1-02/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="10" selection-end-line="22" selection-end-column="10" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-design-2-02/src/main/java/com/alvin/demo/design/CacheService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-design-2-00/src/main/java/com/alvin/demo/design/cuisine/impl/CacheServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="45" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-design-2-00/src/main/java/com/alvin/demo/design/CacheService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-design-2-00/src/main/java/com/alvin/demo/design/matter/IIR.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-design-2-00/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-design-2-01/src/main/java/com/alvin/demo/design/CacheService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo-design-2-01/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -1081,7 +994,7 @@
     <entry file="file://$PROJECT_DIR$/demo-design-3-02/src/main/java/com/alvin/design/demo/DecorationPackageMenu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#213#221#0" expanded="true" />
@@ -1091,10 +1004,175 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo-design-3-02/src/main/java/com/alvin/design/demo/Builder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="28" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="40" />
+        <state relative-caret-position="180">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-3-02/src/test/java/com/alvin/design/demo/test/ApiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-4-00/src/main/java/com/alvin/design/demo/AnswerQuestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding>
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-4-00/src/test/java/com/alvin/design/test/ApiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#213#221#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-4-00/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-4-01/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-4-01/src/test/java/com/alvin/design/demo/test/ApiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-4-01/src/main/java/com/alvin/design/demo/QuestionBankController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="60" column="67" selection-start-line="60" selection-start-column="67" selection-end-line="60" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#271#287#0" expanded="true" />
+            <element signature="e#354#370#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-4-02/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/Cloneable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-4-02/src/main/java/com/alvin/design/demo/utils/Topic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-4-02/src/main/java/com/alvin/design/demo/utils/TopicRandomUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="42" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="42" />
+          <folding>
+            <element signature="e#471#479#0" expanded="true" />
+            <element signature="e#510#526#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-4-00/src/main/java/com/alvin/design/demo/ChoiceQuestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-4-02/src/test/java/com/alvin/design/demo/test/ApiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="53" lean-forward="true" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-4-02/src/main/java/com/alvin/design/demo/QuestionBankController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="62" column="72" selection-start-line="62" selection-start-column="69" selection-end-line="62" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-design-4-02/src/main/java/com/alvin/design/demo/QuestionBank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#263#279#0" expanded="true" />
+            <element signature="e#352#368#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
           </folding>
         </state>
       </provider>
